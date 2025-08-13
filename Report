@@ -1,10 +1,1 @@
-[image title – for atheistic purposes]
-
-Threat Hunt Report: Linux Incident Response
-•	Scenario Creation [Github link to the scenario creation]
-Platforms and Languages Leveraged 
-[whatever platforms used to create and run the threat hunt – ex. below]
-•	Windows 10 Virtual Machines (Microsoft Azure)
-•	EDR Platform: Microsoft Defender for Endpoint
-•	Kusto Query Language (KQL)
 

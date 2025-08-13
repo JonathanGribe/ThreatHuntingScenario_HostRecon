@@ -1,5 +1,5 @@
 
-### Bad Actor - Notepad_updater.ps1 script
+BAD ACTOR - NOTEPAD_UPDATER.ps1
 
 #--------------Fake notepad updater---------------
 

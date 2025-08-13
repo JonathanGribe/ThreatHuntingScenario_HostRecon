@@ -1,3 +1,3 @@
-# Threat Hunt Report: Host Reconnaisance on Windows machine
+# Threat Hunt Report: The Notepad Updater
 
 ---

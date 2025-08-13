@@ -17,9 +17,13 @@
 
 ### Step 4 - Table 4
 
-##Chronology Event Timeline
+---
 
+## Chronology Event Timeline
 
-##Summary
+---
+## Summary
+
+---
 
 ## Response Taken

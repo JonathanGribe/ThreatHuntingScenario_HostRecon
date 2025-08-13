@@ -1,0 +1,3 @@
+# Threat Hunting - "The Notepad Updater"
+## Purpose:
+The purpose of this lab is to....

@@ -1,3 +1,6 @@
+
+### Bad Actor - Notepad_updater.ps1 script
+
 #--------------Fake notepad updater---------------
 
 Add-Type -AssemblyName System.Windows.Forms

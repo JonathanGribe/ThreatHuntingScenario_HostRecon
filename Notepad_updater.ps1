@@ -1,5 +1,5 @@
 
-BAD ACTOR - NOTEPAD_UPDATER.ps1
+BAD ACTOR - NOTEPAD_UPDATER.ps1 (Lab Purposes only!)
 
 #--------------Fake notepad updater---------------
 

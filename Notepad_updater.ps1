@@ -1,7 +1,9 @@
 <#
 Script Name: NOTEPAD_UPDATER.ps1
 Purpose: Lab Exercise
-Created by AI refined by Jonathan Gribe
+Notes:
+- Initial version generated with AI assistance
+- Modified and debugged manually by Jonathan Gribe
 
 #>
 

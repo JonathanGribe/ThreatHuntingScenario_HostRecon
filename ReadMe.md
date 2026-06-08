@@ -13,6 +13,6 @@ In this fictious scenario (See Scenario Creation) we assume that the user (an ad
 to find out that they don't have any idea whats she's talking about.  They escalate this issue to the IT Security Team.
 
 ---
-Next: Scenario Creation
+Next: [Scenario Creation](https://github.com/JonathanGribe/ThreatHuntingScenario_NotepadUpdater/blob/main/ScenarioCreation.md)
 
 

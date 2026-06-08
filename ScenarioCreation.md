@@ -19,9 +19,12 @@ The bad actors goal is:
 ## Security Analyst
 
 After the user reported the suspicious activity to the Help Desk a ticket was raised to the IT Security Team to do further investigation.
+
 ---
+
 Next Step: [Security Team investigation]
 
+<!---
 
 ## Tables Used to Detect IoCs
 | Parameter |         Description          | 

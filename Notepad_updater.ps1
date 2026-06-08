@@ -1,5 +1,6 @@
 
-BAD ACTOR - NOTEPAD_UPDATER.ps1 (Lab Purposes only!)
+BAD ACTOR SCRIPT - NOTEPAD_UPDATER.ps1 (Lab Purposes only!)
+Created by Jonathan Gribe
 
 #--------------Fake notepad updater---------------
 

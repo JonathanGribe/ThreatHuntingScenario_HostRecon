@@ -11,7 +11,17 @@ how that can be seen using Microsoft Defender for Endpoint queries.
 ## Background
 In this fictious scenario (See Scenario Creation) we assume that the user (an administrator) is sent an spear phising email from her IT department asking her to update her notepad, for security reasons.  The unsuspecting user downloads the file and runs the file.  It says 'updating notepad' and reloads the application.  It seems odd, but nothing seems to be happening otherwise, but she decides to check with the IT department anyway, only 
 to find out that they don't have any idea whats she's talking about.  They escalate this issue to the IT Security Team.
+---
+## Created By
+### Author Name: Jonathan Gribe
+### Author Contact: [LinkedIn account]
+### Date: 08/13/2025
 
+## Validated By:
+### Reviewer Name:
+### Reviewer Contact:
+### Validation Date:
+---
 ---
 Next: [Scenario Creation](https://github.com/JonathanGribe/ThreatHuntingScenario_NotepadUpdater/blob/main/ScenarioCreation.md)
 

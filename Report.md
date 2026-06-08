@@ -40,4 +40,4 @@ Trusting the request, she downloads and runs the file, noticing nothing unusual.
 ## Response Taken
 
 ---
-[View the Lab Setup Process]( )
+[View the Lab Setup Process](https://github.com/JonathanGribe/ThreatHuntingScenario_NotepadUpdater/blob/main/labstep.md )

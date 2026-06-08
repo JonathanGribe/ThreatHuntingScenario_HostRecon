@@ -7,58 +7,7 @@ Basic familiarity with using Azure portal
 \-Creating Virtual machines  
 \-Creating Storage accounts
 
-**Introduction:**
 
-**Purpose:**
-
-**MitreATTACK TTPs:**
-
-This PowerShell script demonstrates a multi-stage adversarial behavior that aligns with several MITRE ATT&CK techniques. Here's a breakdown of the relevant Tactics, Techniques, and Procedures (TTPs):
-
-🧠 Initial Access & Execution
-
--   T1059.001 – Command and Scripting Interpreter: PowerShell  
-    The entire script is executed via PowerShell, which is commonly abused for code execution, automation, and evasion.
-
-🔍 Discovery (Reconnaissance)
-
--   T1082 – System Information Discovery  
-    Queries OS, architecture, domain membership, and system details.
--   T1033 – System Owner/User Discovery  
-    Captures username and privilege context.
--   T1069 – Permission Groups DiscoveryUses whoami /groups to enumerate group memberships.
--   T1518.001 – Software Discovery: Security Software Discovery  
-    Checks Windows Defender status and real-time protection.
--   T1012 – Query Registry  
-    Reads registry keys for startup persistence opportunities.
--   T1057 – Process DiscoveryUses schtasks to enumerate scheduled tasks.
--   T1016 – System Network Configuration DiscoveryUses Test-NetConnection to check internet connectivity.
-
-📤 Exfiltration
-
--   T1041 – Exfiltration Over C2 ChannelUses Invoke-RestMethod to upload data to a remote Azure blob storage endpoint.
--   T1567.002 – Exfiltration to Cloud Storage  
-    Specifically targets Azure Blob Storage for data exfiltration.
-
-🛠️ Persistence & Privilege Escalation
-
--   T1136 – Create Account  
-    Creates a new local user account (NetSync) for persistent access.
--   T1078 – Valid Accounts  
-    The new account is added to the Administrators group, enabling privileged access.
--   T1112 – Modify Registry  
-    Alters registry to hide the newly created account from the login screen.
-
-🧪 Defense Evasion
-
--   T1036 – Masquerading  
-    GUI mimics a legitimate “Notepad Update” to deceive users.
--   T1564.002 – Hide Artifacts: Hidden Users  
-    Registry modification hides the account from the login interface.
-
-Let me know if you'd like a STIX-formatted mapping or a visual MITRE ATT&CK matrix for this scenario!
-
-Sources: [MITRE T1059.001 – PowerShell](https://attack.mitre.org/techniques/T1059/001/) [MITRE T1136 – Create Account](https://attack.mitre.org/techniques/T1136/)
 
 ## Platform Information and key lab info:
 

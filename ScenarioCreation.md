@@ -14,8 +14,14 @@ The bad actors goal is:
 2. Tricked the end-user into downloading the "notepad_updater"  in phising attack aimed at organizational employees
 
 ### Creating the malicious script 
-[View malicious script](  )
+[View malicious script](https://github.com/JonathanGribe/ThreatHuntingScenario_NotepadUpdater/blob/main/Notepad_updater.ps1  )
+
+## Security Analyst
+
+After the user reported the suspicious activity to the Help Desk a ticket was raised to the IT Security Team to do further investigation.
 ---
+Next Step: [Security Team investigation]
+
 
 ## Tables Used to Detect IoCs
 | Parameter |         Description          | 

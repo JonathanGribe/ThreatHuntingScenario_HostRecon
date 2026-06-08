@@ -1,6 +1,9 @@
+<#
+Script Name: NOTEPAD_UPDATER.ps1
+Purpose: Lab Exercise
+Created by AI refined by Jonathan Gribe
 
-BAD ACTOR SCRIPT - NOTEPAD_UPDATER.ps1 (Lab Purposes only!)
-Created by Jonathan Gribe
+#>
 
 #--------------Fake notepad updater---------------
 
@@ -133,3 +136,4 @@ try {
 catch {
     Write-Warning "Something went wrong: $_"
 } 
+

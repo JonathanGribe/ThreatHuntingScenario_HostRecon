@@ -22,7 +22,7 @@ After the user reported the suspicious activity to the Help Desk a ticket was ra
 
 ---
 
-Next Step: [Security Team investigation]
+Next Step: [Security Team investigation](https://github.com/JonathanGribe/ThreatHuntingScenario_NotepadUpdater/blob/main/Report.md)
 
 <!---
 
